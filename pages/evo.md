@@ -1,16 +1,16 @@
 ### 3.学校募集支援システムのリニューアル
- <img class="fragment" src="../images/evo/evo_logo.png">
+ <img class="fragment" src="/web-architecture/images/evo/evo_logo.png">
 
 ---
 
 ### evo
 学校募集支援システム<br>Web Matching Navigation4リニューアル版です。<br>(以下 マッチングナビ)
 
-![evo](../images/evo/evo-top.png)
+![evo](/web-architecture/images/evo/evo-top.png)
 
 --
 
-![mn4](../images/introduction/mn4-top.png)
+![mn4](/web-architecture/images/introduction/mn4-top.png)
 
 ---
 
@@ -70,7 +70,9 @@
 
 ### ex. 世界的にAngularが人気
 
-![torrend](../images/introduction/torrend-js-prototype.png)
+![torrend](/web-architecture/images/introduction/torrend-js-prototype.png)
+
+--
 
 ### evo?
 #### マッチングナビとevoの技術比較
@@ -80,28 +82,26 @@
 ---
 
 ### DEMO
-#### リアルタイム性(1/4)
 
 --
 
-### DEMO
-#### リアルタイム性(2/4)
-* マッチングナビ
-![update](../images/evo/mn4-incharge-update.gif)
+#### DEMO リアルタイム性 - マッチングナビ(1/4)
+![update](/web-architecture/images/evo/mn4-incharge-update.gif)
 
 --
 
-### DEMO
-#### リアルタイム性(3/4)
-* evo
-![evo_update](../images/evo/incharge-update.gif)
+#### DEMO リアルタイム性 - evo(2/4)
+![evo_update](/web-architecture/images/evo/incharge-update.gif)
 
 --
 
-### DEMO
-#### リアルタイム性(4/4)
-* evo
-![evo_update](../images/evo/evo-select-search.gif)
+#### DEMO リアルタイム性 - マッチングナビ(3/4)
+![evo_update](/web-architecture/images/evo/mn4-select-search.gif)
+
+--
+
+#### DEMO リアルタイム性 - evo(4/4)
+![evo_update](/web-architecture/images/evo/evo-select-search.gif)
 
 ---
 
